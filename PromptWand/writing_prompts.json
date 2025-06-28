@@ -1,0 +1,58 @@
+{
+    "poetry": [
+        "Write a poem about the last light of dusk.",
+        "Describe love as if it were a forgotten language.",
+        "Write a haiku about silence.",
+        "Personify the moon watching over a sleeping city.",
+        "Write a poem that starts with 'If only I could fly\u2026'"
+    ],
+    "sci-fi": [
+        "A robot gains consciousness\u2014describe its first emotion.",
+        "Humans discover a new planet with ancient ruins\u2014write the log entry.",
+        "The year is 3025, and dreams are government property.",
+        "Aliens offer to fix Earth, but in return, they want something unexpected.",
+        "Time travel is outlawed, but you just received a letter from your future self."
+    ],
+    "fantasy": [
+        "A dragon is tired of guarding treasure and wants a new job.",
+        "Describe a kingdom where magic is powered by music.",
+        "A child finds a glowing key in the forest\u2014what does it unlock?",
+        "A forgotten god awakens in a small village.",
+        "The royal heir runs away to become a wandering bard."
+    ],
+    "life": [
+        "Write about a time you felt truly free.",
+        "Describe a simple moment that changed your life forever.",
+        "You meet your childhood self in a dream\u2014what do you say?",
+        "Write a letter to someone who changed your life without knowing it.",
+        "Capture the feeling of coming home after a long journey."
+    ],
+    "mystery": [
+        "You receive a letter with no return address and a single word: 'Run.'",
+        "A town where no one remembers what happened last Tuesday.",
+        "Describe a detective who solves crimes by dreaming about them.",
+        "A mirror that shows you someone else's reflection.",
+        "A stranger knocks, claiming to be your sibling\u2014but you\u2019re an only child."
+    ],
+    "horror": [
+        "You wake up in a house that looks like yours but isn\u2019t.",
+        "There\u2019s something living under your bed\u2014and it\u2019s learning.",
+        "A voice in your head starts speaking in someone else\u2019s language.",
+        "You inherit a diary filled with confessions of future crimes.",
+        "The forest outside your window keeps getting closer."
+    ],
+    "adventure": [
+        "You find a map hidden inside an old book\u2014where does it lead?",
+        "Describe your first day as a sky pirate.",
+        "The train you boarded doesn\u2019t stop at any known station.",
+        "You join an expedition to the world\u2019s most dangerous island.",
+        "A compass that doesn\u2019t point north\u2014but to what?"
+    ],
+    "historical": [
+        "Write a journal entry from the last day of an ancient civilization.",
+        "A message hidden in a 16th-century painting.",
+        "A time traveler stuck in the Victorian era tries to send a message home.",
+        "Describe a forbidden book that survived centuries of censorship.",
+        "A forgotten figure from history demands to be remembered."
+    ]
+}
